@@ -1,0 +1,24 @@
+{
+    "name": "lanze/cydran",
+    "type": "framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Cydran\\": "System"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Peña",
+            "email": "jpena3610@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php-di/php-di": "^7.0",
+        "symfony/var-dumper": "^6.3",
+        "nikic/fast-route": "^1.3"
+    }
+}
