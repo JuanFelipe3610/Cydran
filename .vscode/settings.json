@@ -1,0 +1,15 @@
+{
+  "php.suggest.basic": false,
+  "php.validate.executablePath": "c:/xampp/8.2.12/php/php.exe",
+  "cSpell.words": [
+    "Cydran",
+    "lanze"
+  ],
+  "intelephense.environment.phpVersion": "8.2.12",
+  "composer.bin": "composer.phar",
+  "composer.workingPath": "composer.json",
+  "php.version": "8.2.0",
+  "php.debug.executablePath": "c:/xampp/8.2.12/php/php.exe",
+  "php.executablePath": "c:/xampp/8.2.12/php/php.exe",
+  "editor.defaultFoldingRangeProvider": "DEVSENSE.composer-php-vscode"
+}
